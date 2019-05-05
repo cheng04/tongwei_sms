@@ -3,4 +3,4 @@ FROM fabric8/java-jboss-openjdk8-jdk
 
 USER root
 
-COPY sms-center-provider/target/demo.jar /home/
+COPY test-provider/target/demo.jar /home/

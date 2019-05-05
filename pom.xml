@@ -9,14 +9,14 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.tongwei.sms</groupId>
-    <artifactId>sms-center</artifactId>
+    <groupId>com.tongwei</groupId>
+    <artifactId>test</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>sms-center-api</module>
-        <module>sms-center-provider</module>
+        <module>test-api</module>
+        <module>test-provider</module>
     </modules>
 
     <repositories>
